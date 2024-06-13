@@ -38,12 +38,12 @@ window.addEventListener("load", function () {
   var buildUrl = "Build";
   var loaderUrl = buildUrl + "/TonConnectTest.loader.js";
   var config = {
-    dataUrl: buildUrl + "/TonConnectTest.data",
-    frameworkUrl: buildUrl + "/TonConnectTest.framework.js",
-    codeUrl: buildUrl + "/TonConnectTest.wasm",
+    dataUrl: buildUrl + "/TonConnectTest.data.unityweb",
+    frameworkUrl: buildUrl + "/TonConnectTest.framework.js.unityweb",
+    codeUrl: buildUrl + "/TonConnectTest.wasm.unityweb",
     streamingAssetsUrl: "StreamingAssets",
-    companyName: "Pixel Charm Studio",
-    productName: "Hex Merge",
+    companyName: "DefaultCompany",
+    productName: "C# TonConnect",
     productVersion: "1.0",
     showBanner: unityShowBanner,
   };

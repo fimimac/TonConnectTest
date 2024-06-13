@@ -1,9 +1,9 @@
 {
-    "name": "Hex Merge",
-    "short_name": "Hex Merge",
+    "name": "C# TonConnect",
+    "short_name": "C# TonConnect",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#0D2136",
+    "background_color": "#231F20",
     "theme_color": "#000",
     "description": "",
     "icons": [{
